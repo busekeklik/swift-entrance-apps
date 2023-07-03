@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3389A82B-9600-4160-B927-68E1E85EF2B7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC269591-75B8-4CF4-8CFF-571E2014347A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BirthdayNoteTaker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FC269591-75B8-4CF4-8CFF-571E2014347A - b6e706bc9193bc64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BirthdayNoteTaker.ViewController.nameTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "BirthdayNoteTaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekeklik/Desktop/iOSComplete/Playgrounds/BirthdayNoteTaker/BirthdayNoteTaker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FC269591-75B8-4CF4-8CFF-571E2014347A - 3ec7cf6d0d55e070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BirthdayNoteTaker.ViewController.nameTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "BirthdayNoteTaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekeklik/Desktop/iOSComplete/Playgrounds/BirthdayNoteTaker/BirthdayNoteTaker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "FC269591-75B8-4CF4-8CFF-571E2014347A - 6123fe4c9a27d961"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BirthdayNoteTaker.ViewController.nameTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "BirthdayNoteTaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekeklik/Desktop/iOSComplete/Playgrounds/BirthdayNoteTaker/BirthdayNoteTaker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FC269591-75B8-4CF4-8CFF-571E2014347A - 1651119246f7441"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BirthdayNoteTaker.ViewController.nameTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BirthdayNoteTaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekeklik/Desktop/iOSComplete/Playgrounds/BirthdayNoteTaker/BirthdayNoteTaker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FC269591-75B8-4CF4-8CFF-571E2014347A - 67ca8df3963ccccc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BirthdayNoteTaker.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BirthdayNoteTaker.ViewController"
+                  moduleName = "BirthdayNoteTaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekeklik/Desktop/iOSComplete/Playgrounds/BirthdayNoteTaker/BirthdayNoteTaker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "FC269591-75B8-4CF4-8CFF-571E2014347A - 6f1a69c2e1b1a2b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BirthdayNoteTaker.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BirthdayNoteTaker.ViewController&gt;"
+                  moduleName = "BirthdayNoteTaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekeklik/Desktop/iOSComplete/Playgrounds/BirthdayNoteTaker/BirthdayNoteTaker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
